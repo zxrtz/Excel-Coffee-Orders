@@ -9,6 +9,6 @@ Graphics made using Pivot Tables, and Pivot Charts.
 ![image](https://github.com/user-attachments/assets/3573ac92-f54d-46a8-9ae5-50bdb7558650)
 
 
-Here is a sample of the data I worked with a cleaned.
+Here is a sample of the data I worked with and cleaned.
 
 ![image](https://github.com/user-attachments/assets/d1e7ee47-4221-4a11-8c59-6041d514969f)
