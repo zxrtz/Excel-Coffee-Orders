@@ -13,12 +13,15 @@ Here is a sample of the relational database I worked with.
 
 
 Orders Table
+
 ![image](https://github.com/user-attachments/assets/d1e7ee47-4221-4a11-8c59-6041d514969f)
 
 
 Customers Table
+
 ![image](https://github.com/user-attachments/assets/dfeec3a8-4728-46fa-88e3-8e9e4e76e727)
 
 
 Products Table
+
 ![image](https://github.com/user-attachments/assets/5c513b45-dcd3-4803-b215-4e2d9458f0d2)
